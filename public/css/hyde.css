@@ -83,7 +83,8 @@ html {
   margin-top: 0;
   /*font-family: serif;*/
   font-family: sans-serif;
-  font-size: 1.10rem;
+  /*font-size: 1.10rem;*/
+  font-size: 1rem;
 }
 
 /* Sidebar nav */
