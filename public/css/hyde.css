@@ -274,7 +274,7 @@ a.sidebar-nav-item:focus {
   .content {
     max-width: 38rem;
     /*margin-left: 20rem;*/
-    margin-left: 30rem;
+    margin-left: 25rem;
     margin-right: 2rem;
   }
 }
@@ -282,7 +282,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 64em) {
   .content {
     /*margin-left: 22rem;*/
-    margin-left: 30rem;
+    margin-left: 25rem;
     margin-right: 4rem;
   }
 }
