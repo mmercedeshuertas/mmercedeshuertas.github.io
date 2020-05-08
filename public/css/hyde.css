@@ -52,7 +52,7 @@ html {
 .grid-container {
   display: grid;
   grid-gap: 50px 40px;
-  grid-template-columns: 200px 200px 200px;
+  grid-template-columns: 300px 300px 300px;
   background-color: #2196F3;
   padding: 10px;
 }
@@ -60,12 +60,16 @@ html {
 .grid-item-portfolio {
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 20px;
+  padding: 5px;
   font-size: 17px;
   text-align: left;
   text-overflow: auto;
   /*overflow : auto*/
 
+}
+.img-grid-portfolio{
+  width: 210px;
+  height: 190px;
 }
 
 .content-grid {
