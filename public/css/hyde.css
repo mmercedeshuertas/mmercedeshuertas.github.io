@@ -53,7 +53,7 @@ html {
   display: grid;
   grid-gap: 50px 40px;
   grid-template-columns: 300px 300px;
-  background-color: #2196F3;
+  /*background-color: #2196F3;*/
   padding: 10px;
 }
 
@@ -120,7 +120,7 @@ html {
   content: "\2212";
 }
 
-.content {
+.content-collapse {
   padding: 0 18px;
   max-height: 0;
   overflow: hidden;
