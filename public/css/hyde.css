@@ -47,6 +47,20 @@ html {
   }
 }
 
+/***** GRID ****/
+
+.grid-container {
+  display: grid;
+  grid-gap: 50px 100px;
+}
+
+.grid-item-portfolio {
+  min-width: 18em
+}
+
+
+/**** END GRID ****/
+
 
 /*
  * Sidebar
@@ -286,7 +300,6 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
 }
-
 
 /*
  * Reverse layout
