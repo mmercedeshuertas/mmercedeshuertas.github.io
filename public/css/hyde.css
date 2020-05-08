@@ -51,8 +51,8 @@ html {
 
 .grid-container {
   display: grid;
-  grid-gap: 50px 100px;
-  grid-template-columns: auto auto auto;
+  grid-gap: 50px 40px;
+  grid-template-columns: 200px 200px 200px;
   background-color: #2196F3;
   padding: 10px;
 }
