@@ -123,7 +123,7 @@ html {
 .grid-container-three {
   display: grid;
   grid-gap: 20px 10px;
-  grid-template-columns: 175px 175px 175px;
+  grid-template-columns: 200px 200px 200px;
   /*background-color: #2196F3;*/
   padding: 5px;
 }
