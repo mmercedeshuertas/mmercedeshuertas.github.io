@@ -97,7 +97,7 @@ html {
   grid-gap: 30px 40px;
   grid-template-columns: 200px 200px;
   /*background-color: #2196F3;*/
-  padding: 10px;
+  padding: 5px;
 }
 
 .grid-item-case {
