@@ -119,6 +119,34 @@ html {
 
 /*****************END GRID COCRODILE ***********/
 
+/*************** START GRID 3 columns *************/
+.grid-container-three {
+  display: grid;
+  grid-gap: 20px 10px;
+  grid-template-columns: 175px 175px 175px;
+  /*background-color: #2196F3;*/
+  padding: 5px;
+}
+
+.grid-item-three {
+  /*background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);*/
+  padding: 5px;
+  font-size: 17px;
+  text-align: left;
+  text-overflow: auto;
+  /*overflow : auto*/
+
+}
+.img-grid-three{
+  width: 160px;
+  height: 220px;
+}
+
+
+
+/*****************END GRID 3 clumns ***********/
+
 /**************** START COLLABPSE ******************/
 /*
 .collapsible {
