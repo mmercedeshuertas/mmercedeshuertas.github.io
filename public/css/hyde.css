@@ -194,6 +194,14 @@ a{
 }
 /*******END LINK ****/
 
+/************************ COLUMNS *****************/
+.mycolumn {
+  column-count: 2;
+  column-gap: 40px;
+  column-width: 100px;
+}
+/****************** END COLUMNS ******************/
+
 /*
  * Sidebar
  *
