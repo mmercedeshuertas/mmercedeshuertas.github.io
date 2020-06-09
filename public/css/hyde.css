@@ -187,13 +187,6 @@ html {
 */
 /*******************END COLLAPSE **********************/
 
-/**** LINK *******/
-a{
-  color:black;
-  background-color: transparent;
-}
-/*******END LINK ****/
-
 /************************ COLUMNS *****************/
 .mycolumn {
   column-count: 2;
@@ -201,6 +194,14 @@ a{
   column-width: 100px;
 }
 /****************** END COLUMNS ******************/
+
+/**** LINK *******/
+a{
+  color:black;
+  background-color: transparent;
+}
+/*******END LINK ****/
+
 
 /*
  * Sidebar
